@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '75ce2d44f60ff7e3a341eca350e8d78e05d99210',
     'name' => 'maithemewp/mai-pure',
   ),
   'versions' => 
@@ -30,12 +30,12 @@
     ),
     'maithemewp/mai-pure' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '75ce2d44f60ff7e3a341eca350e8d78e05d99210',
     ),
   ),
 );
